@@ -30,7 +30,6 @@ gift.addEventListener('click', ()=>{
         wishPage.classList.add('show');
         createSparkles();
         generateBalloons(totalBalloons);
-        typeWriter("May your birthday be full of love, joy & happiness! 🎂");
         startWishGradient();
     },800);
 });
